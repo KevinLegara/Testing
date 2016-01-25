@@ -1,0 +1,46 @@
+ .display-none{
+        display:none;
+}
+ 
+.padding-bottom-2em{
+    padding-bottom:2em;
+}
+ 
+.width-30-pct{
+    width:30%;
+}
+ 
+.width-40-pct{
+    width:40%;
+}
+ 
+.overflow-hidden{
+    overflow:hidden;
+}
+ 
+.margin-right-1em{
+    margin-right:1em;
+}
+ 
+.right-margin{
+    margin:0 .5em 0 0;
+}
+ 
+.margin-bottom-1em {
+    margin-bottom:1em;
+}
+ 
+.margin-zero{
+    margin:0;
+}
+ 
+.text-align-center{
+    text-align:center;
+}
+span.glyphicon.glyphicon-edit.edit-image-btn, span.glyphicon.glyphicon-remove.delete-image-btn {
+    cursor: pointer;
+}
+
+.delete-image-btn .image-id, .edit-image-btn .image-id {
+    visibility: hidden;
+}
